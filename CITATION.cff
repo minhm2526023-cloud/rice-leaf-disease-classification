@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng mã nguồn hoặc kết quả từ dự án này trong nghiên cứu, vui lòng trích dẫn theo thông tin bên dưới."
+title: "Ứng dụng Học sâu trong Phân loại Bệnh trên Lá Lúa tại Đồng bằng Sông Cửu Long"
+authors:
+  - family-names: "Đinh"
+    given-names: "Hoàng Minh"
+    affiliation: "Trường Công nghệ Thông tin và Truyền thông, Đại học Cần Thơ"
+    email: "minhm2526023@gstudent.ctu.edu.vn"
+date-released: 2026-11-22
+license: MIT
+url: "https://github.com/dinhhoangminh/rice-leaf-disease-classification"

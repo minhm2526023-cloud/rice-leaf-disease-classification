@@ -1,0 +1,4 @@
+Mo_hinh,Kien_truc,So_tham_so_Trieu,Accuracy_Phan_tram,F1_Score,Thoi_gian_Epoch_giay
+VGG16,Tuan tu co dien,138.4,89.40,0.89,42
+MobileNetV2,Tich chap tach biet,3.5,92.15,0.92,18
+ResNet50,Ket noi tat Residual,25.6,95.30,0.95,29
